@@ -98,9 +98,9 @@ mark both statements:
 
 | Field                          | Entry                              |
 |------------------------------- | --------------------               |
-| Name                           | Abhinav Sharma                     |
-| Company name (if applicable)   | Fourtek I.T. Solutions Pvt. Ltd.   |
-| Title or role (if applicable)  | Machine Learning Engineer          |
-| Date                           | 3 Novermber 2017                   |
-| GitHub username                | abhi18av                           |
-| Website (optional)             | https://abhi18av.github.io/        |
+| Name                           | Thomas Felder                      |
+| Company name (if applicable)   |                                    |
+| Title or role (if applicable)  |                                    |
+| Date                           | 8 Novermber 2017                   |
+| GitHub username                | tfmolch                            |
+| Website (optional)             |                                    |
